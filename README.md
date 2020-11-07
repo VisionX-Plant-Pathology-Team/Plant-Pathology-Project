@@ -10,3 +10,4 @@ Kodluyoruz Data Science 102 Bootcamp Plant Pathology Project
 - Ayşe İlkay
 - Doğan Oruç
 - Berkay Alan
+- Arda Raştak
